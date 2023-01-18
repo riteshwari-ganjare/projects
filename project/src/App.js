@@ -1,10 +1,12 @@
 import React from 'react'
-import Web from './components/Web'
+import Practice from './components/Practice';
 
+
+import './index.css';
 const App = () => {
   return (
     <>
-    <Web />
+    <Practice />
     </>
   )
 }
